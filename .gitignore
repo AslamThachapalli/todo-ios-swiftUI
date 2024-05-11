@@ -1,0 +1,28 @@
+.DS_Store
+.Trashes
+*.swp
+*~.nib
+build/
+# .pbxuser: http://lists.apple.com/archives/xcode-users/2004/Jan/msg00193.html
+
+*.pbxuser
+
+# .mode1v3: http://lists.apple.com/archives/xcode-users/2007/Oct/msg00465.html
+
+*.mode1v3
+
+# .mode2v3: http://lists.apple.com/archives/xcode-users/2007/Oct/msg00465.html
+
+*.mode2v3
+
+# .perspectivev3: http://stackoverflow.com/questions/5223297/xcode-projects-what-is-a-perspectivev3-file
+
+*.perspectivev3
+
+#    NB: also, whitelist the default ones, some projects need to use these
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+GoogleService-Info.plist 
